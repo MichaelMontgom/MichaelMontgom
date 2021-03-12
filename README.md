@@ -1,4 +1,5 @@
 ### Hi there 👋
+#### I am a Valdosta State University graduate with bachelor degrees in Computer Science and History
 
 <!--
 **MichaelMontgom/MichaelMontgom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,4 +17,4 @@ Here are some ideas to get you started:
 -->
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MichaelMontgom)](https://github.com/MichaelMontgom/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MichaelMontgom&layout=compact)](https://github.com/MichaelMontgom/github-readme-stats)
