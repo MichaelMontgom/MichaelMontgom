@@ -17,7 +17,9 @@ Here are some ideas to get you started:
 -->
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MichaelMontgom&layout=compact&theme=dark)](https://github.com/MichaelMontgom/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MichaelMontgom&layout=compact&theme=dark)](https://github.com/MichaelMontgom/github-readme-stats)<br/>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=MichaelMontgom&show_icons=true&theme=dark)
+
 
 📫 How to reach me:<br/>
 [LinkedIn](https://www.linkedin.com/in/michael-montgomery-12a537160/)
