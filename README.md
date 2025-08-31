@@ -43,5 +43,8 @@ Here are some ideas to get you started:
 <!--- stats (end) -->
 
 
-📫 How to reach me:<br/>
+How to reach me:<br/>
 [LinkedIn](https://www.linkedin.com/in/michael-montgomery-12a537160/)
+
+Read the ramblings of my brain:<br/>
+[Medium](https://medium.com/@mickeymontgomery)
